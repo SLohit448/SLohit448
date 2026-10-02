@@ -39,7 +39,7 @@ Building intelligent products, AI-powered applications, and automation systems.
 <tr>
 <td width="50%" valign="top">
 
-### [EduPulse](https://github.com/kmish9685/Edu_Pulse)
+### [EduPulse](https://github.com/SLohit448/Edu_Pulse)
 
 Anonymous classroom feedback system designed to help teachers identify when students need support.
 
@@ -61,7 +61,7 @@ AI-powered marketing platform focused on helping businesses create and manage ma
 <tr>
 <td width="50%" valign="top">
 
-### [CampusRide](https://github.com/kmish9685/CampusRide)
+### [CampusRide](https://github.com/SLohit448/CampusRide)
 
 Real-time campus bus tracking platform with ETA and crowd-level information.
 
@@ -83,15 +83,15 @@ Contributing code, documentation, and improvements to open-source projects.
 
 ## Open Source Contributions
 
-- **Microsoft** — VS Code documentation contribution.
-- **Google** — Python Fire contribution.
+- **[Microsoft — VS Code](https://github.com/SLohit448/vscode-docs)** — Documentation contribution.
+- **[Google — Python Fire](https://github.com/SLohit448/python-fire)** — Open-source contribution.
 
 ## Achievements
 
-- 🏆 Top 5 of 20 teams — EdVentures Competition 2026, [**EduPulse**](https://github.com/kmish9685/Edu_Pulse).
-- 🥈 2nd Runner-up — IEEE Week Hackathon (Problem Protocol), with [**CampusRide**](https://github.com/kmish9685/CampusRide).
-- 🏆 Finalist — [**JAI Hackathon**](#).
-- 🏆 Finalist — [**Dexterix 5.0**](#).
+- 🏆 Top 5 of 20 teams — EdVentures Competition 2026, [**EduPulse**](https://github.com/SLohit448/Edu_Pulse).
+- 🥈 2nd Runner-up — IEEE Week Hackathon (Problem Protocol), with [**CampusRide**](https://github.com/SLohit448/CampusRide).
+- 🏆 Finalist — JAI Hackathon.
+- 🏆 Finalist — Dexterix 5.0.
 
 ## Currently Exploring
 
