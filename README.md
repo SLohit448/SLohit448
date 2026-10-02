@@ -11,6 +11,7 @@ Building intelligent products, AI-powered applications, and automation systems.
 <a href="https://www.linkedin.com/in/simma-lohit-79b354305/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/u/slohit_448/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
@@ -27,16 +28,32 @@ Building intelligent products, AI-powered applications, and automation systems.
 - Building practical applications that solve real-world problems.
 - Exploring AI agents, intelligent systems, and automation.
 
+---
+
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,html,css,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" height="50" />
 </p>
+
+---
 
 ## Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### [EduPulse](https://github.com/SLohit448/Edu_Pulse)
@@ -56,9 +73,11 @@ AI-powered marketing platform focused on helping businesses create and manage ma
 **Focus:** AI · Full-Stack Development
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### [CampusRide](https://github.com/SLohit448/CampusRide)
@@ -78,20 +97,27 @@ Contributing code, documentation, and improvements to open-source projects.
 **Focus:** Collaboration · Developer Tools
 
 </td>
+
 </tr>
 </table>
+
+---
 
 ## Open Source Contributions
 
 - **[Microsoft — VS Code](https://github.com/SLohit448/vscode-docs)** — Documentation contribution.
 - **[Google — Python Fire](https://github.com/SLohit448/python-fire)** — Open-source contribution.
 
+---
+
 ## Achievements
 
-- 🏆 Top 5 of 20 teams — EdVentures Competition 2026, [**EduPulse**](https://github.com/SLohit448/Edu_Pulse).
-- 🥈 2nd Runner-up — IEEE Week Hackathon (Problem Protocol), with [**CampusRide**](https://github.com/SLohit448/CampusRide).
-- 🏆 Finalist — JAI Hackathon.
-- 🏆 Finalist — Dexterix 5.0.
+- 🏆 **Top 5 of 20 teams** — EdVentures Competition 2026, [**EduPulse**](https://github.com/SLohit448/Edu_Pulse).
+- 🥈 **2nd Runner-up** — IEEE Week Hackathon (Problem Protocol), with [**CampusRide**](https://github.com/SLohit448/CampusRide).
+- 🏆 **Finalist** — JAI Hackathon.
+- 🏆 **Finalist** — Dexterix 5.0.
+
+---
 
 ## Currently Exploring
 
