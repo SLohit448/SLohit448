@@ -1,9 +1,6 @@
-## Hi there 👋
-
-
 <div align="center">
 
-# Simma Lohit
+# Hi, I'm Simma Lohit 👋
 
 ### AI & Full-Stack Developer
 
@@ -42,19 +39,19 @@ Building intelligent products, AI-powered applications, and automation systems.
 <tr>
 <td width="50%" valign="top">
 
-### EduPulse
+### [EduPulse](https://github.com/kmish9685/Edu_Pulse)
 
 Anonymous classroom feedback system designed to help teachers identify when students need support.
 
-**Focus:** EdTech · Real-time feedback
+**Focus:** EdTech · Real-time Feedback
 
 </td>
 
 <td width="50%" valign="top">
 
-### Prometra
+### [Prometra](https://github.com/SLohit448/prometra)
 
-An AI-powered marketing platform focused on helping businesses create and manage marketing content.
+AI-powered marketing platform focused on helping businesses create and manage marketing content.
 
 **Focus:** AI · Full-Stack Development
 
@@ -64,7 +61,7 @@ An AI-powered marketing platform focused on helping businesses create and manage
 <tr>
 <td width="50%" valign="top">
 
-### CampusRide
+### [CampusRide](https://github.com/kmish9685/CampusRide)
 
 Real-time campus bus tracking platform with ETA and crowd-level information.
 
@@ -91,10 +88,10 @@ Contributing code, documentation, and improvements to open-source projects.
 
 ## Achievements
 
-- 🏆 Top 5 of 20 teams — EdVentures Competition 2026, EduPulse.
+- 🏆 Top 5 of 20 teams — EdVentures Competition 2026, [**EduPulse**](https://github.com/kmish9685/Edu_Pulse).
 - 🥈 2nd Runner-up — IEEE Week Hackathon (Problem Protocol), with [**CampusRide**](https://github.com/kmish9685/CampusRide).
-- 🏆 Finalist — JAI Hackathon.
-- 🏆 Finalist — Dexterix 5.0.
+- 🏆 Finalist — [**JAI Hackathon**](#).
+- 🏆 Finalist — [**Dexterix 5.0**](#).
 
 ## Currently Exploring
 
