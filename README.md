@@ -11,11 +11,11 @@ Building intelligent products, AI-powered applications, and automation systems.
 
 <br/>
 
-<a href="https://github.com/SLohit448">
-  <img src="https://img.shields.io/badge/GitHub-SLohit448-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://www.linkedin.com/in/simma-lohit-79b354305/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/slohit_448/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
@@ -49,6 +49,7 @@ Anonymous classroom feedback system designed to help teachers identify when stud
 **Focus:** EdTech · Real-time feedback
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Prometra
@@ -59,16 +60,18 @@ An AI-powered marketing platform focused on helping businesses create and manage
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### Personal Gemini Journal
+### CampusRide
 
-An AI-powered journaling application using Google's Gemini API.
+Real-time campus bus tracking platform with ETA and crowd-level information.
 
-**Focus:** Generative AI · Cloud
+**Focus:** Real-time Systems · Campus Mobility
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Open Source
@@ -88,36 +91,25 @@ Contributing code, documentation, and improvements to open-source projects.
 
 ## Achievements
 
-- Top 5 of 20 teams — EdVentures Competition 2026, EduPulse.
-- Finalist — JAI Hackathon.
-- Finalist — Dexterix 5.0.
-- Shortlisted — EY Techathon.
+- 🏆 Top 5 of 20 teams — EdVentures Competition 2026, EduPulse.
+- 🥈 2nd Runner-up — IEEE Week Hackathon (Problem Protocol), with [**CampusRide**](https://github.com/kmish9685/CampusRide).
+- 🏆 Finalist — JAI Hackathon.
+- 🏆 Finalist — Dexterix 5.0.
 
-## GitHub Statistics
+## Currently Exploring
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SLohit448&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLohit448&layout=compact&theme=github_dark&hide_border=true" />
+
+| 🤖 Artificial Intelligence | 🧠 AI Agents | 🔎 RAG Systems |
+|:---:|:---:|:---:|
+| Building intelligent applications | Exploring autonomous workflows | Learning retrieval-based AI |
+
 </div>
 
 ---
 
 <div align="center">
 
-**Learn · Build · Contribute · Repeat**
+### Learn · Build · Contribute · Repeat
 
 </div>
-<!--
-**SLohit448/SLohit448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
